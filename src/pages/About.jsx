@@ -13,7 +13,8 @@ function About(){
             <div className="aboutProjBox glass">
                 <h1>About Portfolio</h1>
                 <h3>
-                    This portfolio website was made entirely by me with no AI involved. As I
+                    This portfolio was developed without AI with me being its sole contributor. AI was only used 
+                    for creating/adjusting images such as the wallpaper and head shot. As I
                     continue to work on projects, gain real experience, and
                     learn more skills, I will be sure to expand onto this portfolio.
                 </h3>
@@ -22,7 +23,7 @@ function About(){
                 </h3>
                 <h2>Build Tools For This Website</h2>
                 <h3>
-                    Planning/Sketching: Figma and AI (ChatGPT)
+                    Planning/Sketching: AI to visualize my design ideas and Figma to sketch
                 </h3>
                 <h3>
                     Programming: React, HTML, CSS Styling
